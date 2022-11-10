@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Mastodon: [Mastodon Account] (https://fosstodon.org/@ryestonepig)
+- Mastodon: https://fosstodon.org/@ryestonepig
