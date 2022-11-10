@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://fosstodon.org/@ryestonepig" rel="me">Mastodon Verification</a> 
+<a rel="me" href="https://fosstodon.org/@ryestonepig">Mastodon </a> 
