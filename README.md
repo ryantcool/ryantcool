@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[Mastodon: @ryestonepig](https://fosstodon.org/@ryestonepig)
+[Mastodon: @ryestonepig@fosstodon.org](https://fosstodon.org/@ryestonepig)
