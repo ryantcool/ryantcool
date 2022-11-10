@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [Mastodon: fosstodon.org/@ryestonepig](https://fosstodon.org/@ryestonepig)
 
-<a href="https://fosstodon.org/@ryestonepig" rel="me" Mastodon Verification</a> 
+<a href="https://fosstodon.org/@ryestonepig" rel="me" Mastodon Verification </a> 
