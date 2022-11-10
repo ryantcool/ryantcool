@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 
 [Mastodon: fosstodon.org/@ryestonepig](https://fosstodon.org/@ryestonepig)
-
-
-https://fosstodon.org/@ryestonepig
