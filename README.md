@@ -9,8 +9,8 @@
 - Mainly using Python and Bash scripting to manage large datasets
 - When I'm not working I'm either:
   
-	- Playing 🎮 ![Static Badge](https://img.shields.io/badge/Loadedvegangoat-%231b2838?logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Floadedvegangoat%2Fgames%2F%3Ftab%3Drecent)
-   
+	- Playing 🎮 <a href="https://steamcommunity.com/id/loadedvegangoat/games/?tab=recent" alt="Steam Profile"><img src="https://img.shields.io/badge/Loadedvegangoat-%231b2838?logo=steam"/></a>
+ 
 	- Making ☕
    
  	- Watching 🏒, ⚾, or ⚽
@@ -19,9 +19,9 @@
   
 ### 📱 Connect with me:
 
-![Static Badge](https://img.shields.io/badge/Matrix-%40ryantcool%3Amatrix.org-%230dbd8b?logo=matrix&labelColor=%230dbd8b&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40ryantcool%3Amatrix.org)
+<a href="https://matrix.to/#/@ryantcool:matrix.org" alt="Matrix"><img src="https://img.shields.io/badge/Matrix-%40ryantcool%3Amatrix.org-%230dbd8b?logo=matrix&labelColor=%230dbd8b"/></a> 
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109739449322028218?domain=https%3A%2F%2Ffosstodon.org)
+<a href="https://fosstodon.org/@loadedvegangoat" alt="Mastodon"><img src="https://img.shields.io/mastodon/follow/109739449322028218?domain=https%3A%2F%2Ffosstodon.org"/></a>
 
 
 --- 
