@@ -36,6 +36,4 @@
 
 ---
 ### Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=loadedvegangoat&theme=dracula)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loadedvegangoat&theme=dracula&layout=donut&exclude_repo=dotfiles)
