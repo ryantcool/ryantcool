@@ -15,15 +15,6 @@
    
  	- Watching 🏒, ⚾, or ⚽
 
----
-  
-### 📱 Connect with me:
-
-<a href="https://matrix.to/#/@ryantcool:matrix.org" alt="Matrix"><img src="https://img.shields.io/badge/Matrix-%40ryantcool%3Amatrix.org-%230dbd8b?logo=matrix&labelColor=%230dbd8b"/></a> 
-
-<a href="https://fosstodon.org/@loadedvegangoat" alt="Mastodon"><img src="https://img.shields.io/mastodon/follow/109739449322028218?domain=https%3A%2F%2Ffosstodon.org"/></a>
-
-
 --- 
 
 ### 🛠️ &nbsp; Languages and Tools :
