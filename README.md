@@ -1,4 +1,4 @@
-<a rel="me" href="https://fosstodon.org/@loadedvegangoat"></a>
+<a rel="me" href="https://fosstodon.org/@ryantcool"></a>
 <p align="center"> Powered by:</p>
 <p align="center"><img src="https://media3.giphy.com/media/dRvh1HW5RvBjYZdffi/giphy.gif" width="300"/></p>
 
@@ -27,4 +27,4 @@
 
 ---
 ### Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loadedvegangoat&theme=dracula&layout=donut&exclude_repo=dotfiles)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantcool&theme=dracula&layout=donut&exclude_repo=dotfiles)
