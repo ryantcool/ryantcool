@@ -1,4 +1,4 @@
-<a rel="me" href="https://fosstodon.org/@ryantcool"></a>
+<a rel="me" href="https://techhub.social/@ryantcool"></a>
 <p align="center"> Powered by:</p>
 <p align="center"><img src="https://media3.giphy.com/media/dRvh1HW5RvBjYZdffi/giphy.gif" width="300"/></p>
 
