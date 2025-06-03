@@ -9,7 +9,7 @@
 - Mainly using Python and Bash scripting to manage large datasets
 - When I'm not working I'm either:
   
-	- Playing 🎮 <a href="https://steamcommunity.com/id/ryioughta/" alt="Steam Profile"><img src="https://img.shields.io/badge/ryioughta-%231b2838?logo=steam"/></a>
+	- Playing 🎮 <a href="https://steamcommunity.com/id/ryioughta" alt="Steam Profile"><img src="https://img.shields.io/badge/ryioughta-%231b2838?logo=steam"/></a>
  
 	- Making ☕
    
