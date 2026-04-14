@@ -1,6 +1,10 @@
 <a rel="me" href="https://techhub.social/@ryantcool"></a>
 <p align="center"> Powered by:</p>
-<p align="center"><img src="https://media3.giphy.com/media/dRvh1HW5RvBjYZdffi/giphy.gif" width="300"/></p>
+<p align="center">
+  <a href="https://giphy.com/EmiBee">
+    <img src="https://media3.giphy.com/media/dRvh1HW5RvBjYZdffi/giphy.gif" width="300"/>
+  </a>
+</p>
 
 
 ### About me: 
