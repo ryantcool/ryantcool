@@ -29,7 +29,3 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="Powershell" **alt="Powershell" width="40" height="40"/>&nbsp;
 </p>
-
----
-### Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantcool&theme=dracula&layout=donut&exclude_repo=dotfiles)
